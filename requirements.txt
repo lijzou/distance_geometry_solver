@@ -1,0 +1,9 @@
+cvxpy == 1.6.0
+numpy  == 1.23.5
+networkx == 3.1
+matplotlib == 3.7.2
+Mosek == 10.2.8
+numba == 0.60.0
+scipy == 1.11.1
+ProDy == 2.4.1
+psutil == 5.9.0
